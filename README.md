@@ -5,6 +5,8 @@
 
 - 👯 I’m looking to collaborate on **machine learning and deep learning projects**
 
+- 👨‍💻 All of my projects are available at [https://troopl.com/gulfairuskairedenova](https://troopl.com/gulfairuskairedenova)
+
 - 📫 How to reach me **gulfairuskairedenova@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/2722bqr4f2](https://flowcv.com/resume/2722bqr4f2)
